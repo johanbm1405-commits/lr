@@ -22,5 +22,5 @@ website](https://lezer.codemirror.net/docs/ref/#lr).
 The code is licensed under an MIT license.
 
 This project was hugely inspired by
-[tree-sitter](http://tree-sitter.github.io/tree-sitter/).  
+[tree-sitter](http://tree-sitter.github.io/tree-sitter/).   
  
